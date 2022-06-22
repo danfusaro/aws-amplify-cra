@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn AWS Amplify - This is Develop!
+          Learn AWS Amplify - This is {process.env.REACT_APP_TEST}!
         </a>
       </header>
     </div>
